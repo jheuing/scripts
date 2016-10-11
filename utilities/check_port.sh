@@ -1,5 +1,5 @@
 #!/bin/bash
-# Check a whether a port is open or not
+# Check whether a port is open or not
 #
 # Include in your builds via
 # \curl -sSL https://raw.githubusercontent.com/codeship/scripts/master/utilities/check_port.sh > ${HOME}/bin/check_port && chmod u+x ${HOME}/bin/check_port
